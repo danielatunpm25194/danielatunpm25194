@@ -1,6 +1,6 @@
-#¡Hola!  SOY Daniela Tun Tun✋
+# ¡Hola!  SOY Daniela Tun Tun✋
 
-##Sobre mi:
+## Sobre mi:
 Soy estudiante de segundo semestre técnica en **programación**.Actualmente estoyestoy sumegiéndome en el mundo del desarrollo de software,enfocandome en construir bases sólidas en la lógica y buenas prácticas.
 
 -🏫 Escuela de Estudios Cientifícos Y Tecnológicos del Estado de Campeche plantel Pomuch
